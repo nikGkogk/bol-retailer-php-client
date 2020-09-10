@@ -1,0 +1,21 @@
+{
+    "productContents": [
+        {
+            "internalReference": "USER-REFERENCE",
+            "rejectedAttributes": [
+                {
+                    "attributeId": "Width",
+                    "rejectionErrors": [
+                        {
+                            "code": 1000,
+                            "message": "Example rejection message."
+                        }
+                    ]
+                }
+            ],
+            "status": "VALIDATED_WITH_ATTRIBUTE_FAILURES",
+            "errorCode": 1000,
+            "errorDescription": "Example rejection message."
+        }
+    ]
+}
